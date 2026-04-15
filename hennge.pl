@@ -15,6 +15,9 @@
 # for HENNGE ONE User Operation Log
 # https://developers.hennge.com/docs/hac-api/82d7a610b7cb2-streams-user-logs-as-a-csv 
 
+# for HENNGE ONE Secure Transfer transfer lgos
+# https://developers.hennge.com/docs/hst-api/ec92567ad0b03-search-for-transfer-logs
+
 # It requires perl JSON module to decode JSON data
 # Ubuntu Linux
 # sudo apt install libjson-perl
